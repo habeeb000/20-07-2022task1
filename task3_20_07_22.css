@@ -1,0 +1,26 @@
+.leftside,
+.rightside {
+  height: 65vh;
+  width: 100%;
+}
+
+.leftside {
+  background: red;
+}
+
+.rightside {
+  background: beige;
+  text-align: center;
+}
+
+.bottomside {
+  width: 100%;
+  height: 15vh;
+  background-color: greenyellow;
+}
+
+.topside {
+  width: 100%;
+  height: 15vh;
+  background-color: greenyellow;
+}
